@@ -1,0 +1,7 @@
+{
+  "name": "Stern-Gerlach Experiment",
+  "version": "1.0.0",
+  "dependencies": {
+    "p5": "^1.3.1"
+  }
+}
